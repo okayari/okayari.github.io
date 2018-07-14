@@ -28,10 +28,8 @@
   }
   
   footer {
-    /* padding-top: 3rem;
-    padding-bottom: 3rem; */
-    padding: 10px;
-    background: yellow;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
   
   footer p {

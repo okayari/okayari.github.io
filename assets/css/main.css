@@ -30,10 +30,12 @@
   footer {
     /* padding-top: 3rem;
     padding-bottom: 3rem; */
+    padding: 10px;
+    background: yellow;
   }
   
   footer p {
-    /* margin-bottom: .25rem; */
+    margin-bottom: .25rem;
   }
   
   .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
